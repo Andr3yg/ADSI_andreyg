@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-26T21:02:49.118Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36 Edg/86.0.622.51" etag="oa4QkUsPLloTz0KfH60o" version="13.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-26T21:06:22.154Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36 Edg/86.0.622.51" etag="Bnf9taqUA9Muaotwq63_" version="13.8.3" type="github">
   <diagram id="l8dNg07YHRR2AjKFmhx5" name="Page-1">
     <mxGraphModel dx="1365" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#CCCCCC" math="0" shadow="0">
       <root>
@@ -182,6 +182,24 @@
         </mxCell>
         <mxCell id="ggHi2MfkiVqWgaHe4agL-57" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="680" y="610" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ggHi2MfkiVqWgaHe4agL-59" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="570" y="790" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ggHi2MfkiVqWgaHe4agL-60" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="570" y="840" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ggHi2MfkiVqWgaHe4agL-61" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="570" y="890" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ggHi2MfkiVqWgaHe4agL-62" value="Proceso Previamente Elegido (Satisfacción del usuario)." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="790" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ggHi2MfkiVqWgaHe4agL-63" value="Procesos de Administración" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="840" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ggHi2MfkiVqWgaHe4agL-64" value="Procesos de Administración, tanto física como digitalmente" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="890" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
