@@ -27,7 +27,7 @@ Andrey: I'm agree with you, i think we have to accept the present and leave the 
 
 Google Asistant: I wanna know something about you... Do you like Java?
 
-Andrey: NOOOOOU, what do you say that. Java is worst there is. Who does use Java in 2021 to kick out from this world?
+Andrey: NOOOOOU, why do you say that. Java is worst there is. Who does use Java in 2021 to kick out it from this world?
 
 Google Asistant: I have Java Code into me :(
 
@@ -39,5 +39,15 @@ Andrey: Oh my God, i love BZRP sessions, i'm listening to L-Gante session right 
 
 Google Asistant: what is you favorite music gender?
 
-Andrey: i love pop, long live to Taylor Swift. And also i like rap and freestyle. I recommend you this perfect song by Taylor: [Enchanted](https://www.youtube.com/watch?v=vv3um0BlygY).
+Andrey: i love pop, long live to Taylor Swift. And also i like rap and freestyle. I recommend you this perfect song by Taylor: [Enchanted](https://www.youtube.com/watch?v=vv3um0BlygY). I really enjoy listening to that song.
+
+Google Asistant: i can see your browser history and you study a lot, and nothing about that is for ADSI. Don't you like it?
+
+Andrey: i wanted you to ask me that question. I don't enjoy this career, i think it's many basic. The career is good for those people who don't know nothing about Tech world, and i know that things, i wanna learn something more interesting, somethins that i don't know. But i'll stay.
+
+Andrey: it was a good conversation, but i have to go and eat dinner, see you later Google Asistant.
+
+Google Asistant: Ok, see you later when you need help. Greetings to the English teacher.
+
+---
 
