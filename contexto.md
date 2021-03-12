@@ -39,5 +39,5 @@ Andrey: Oh my God, i love BZRP sessions, i'm listening to L-Gante session right 
 
 Google Asistant: what is you favorite music gender?
 
-Andrey: i love pop, long live to Taylor Swift. And also i like rap and freestyle. I recommend you this perfect song by Taylor: [https://www.youtube.com/watch?v=vv3um0BlygY](Enchanted).
+Andrey: i love pop, long live to Taylor Swift. And also i like rap and freestyle. I recommend you this perfect song by Taylor: [Enchanted](https://www.youtube.com/watch?v=vv3um0BlygY).
 
