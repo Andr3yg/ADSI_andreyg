@@ -19,7 +19,7 @@
 
 **Andrey**: Ok, now let's talk about Tech world.
 
-**Andrey**: Do you prefer an local server or a cloud server like cloud computing?
+**Andrey**: Do you prefer a local server or a cloud server like cloud computing?
 
 **Google Asistant**: I think we should use cloud computing because it is more cheap than to have local servers. What do you think?
 
@@ -43,7 +43,7 @@
 
 **Google Asistant**: i can see your browser history and you study a lot, and nothing about that is for ADSI. Don't you like it?
 
-**Andrey**: i wanted you to ask me that question. I don't enjoy this career, i think it's many basic. The career is good for those people who don't know nothing about Tech world, and i know that things, i wanna learn something more interesting, somethins that i don't know. But i'll stay.
+**Andrey**: i wanted you to ask me that question. I don't enjoy this career, i think it's many basic. The career is good for those people who don't know nothing about Tech world, and i know that things, i wanna learn something more interesting, somethings that i don't know. But i'll stay.
 
 **Andrey**: it was a good conversation, but i have to go and eat dinner, see you later Google Asistant.
 
